@@ -21,9 +21,6 @@ An AI-powered fitness assistant that helps users track health metrics, analyze p
 
 ![App Screenshot-2](assets/smart-2.png)
 
-### 🎥 Demo Video
-[Watch Demo Video](assets/fit-smart-ai.mp4)
-
 ---
 
 ## 🛠️ Tech Stack
